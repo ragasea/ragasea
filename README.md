@@ -2,7 +2,7 @@
 - 
 - 🌱 I’m currently learning GitHub 
   
-- 📫 How to reach me
+- 📫 Reach me @
 - https://instagram.com/yogaanurag 
 
 <!---
